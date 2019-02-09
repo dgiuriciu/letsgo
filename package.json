@@ -1,0 +1,30 @@
+{
+  "name": "letsgo",
+  "version": "1.0.0",
+  "description": "Event creation and sharing app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgiuriciu/letsgo.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-validator": "^3.1.2",
+    "mongoose": "^4.8.7",
+    "nodemon": "^1.14.12"
+  },
+  "author": "Cervi Pitul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgiuriciu/letsgo/issues"
+  },
+  "homepage": "https://github.com/dgiuriciu/letsgo#readme"
+}

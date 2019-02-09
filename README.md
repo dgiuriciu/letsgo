@@ -1,4 +1,4 @@
-#letsgo
+# letsgo
 
 Application with the purpose of allowing people to better synchronize on their various events/activities.
 
